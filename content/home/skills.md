@@ -34,11 +34,11 @@ feature: 90
 #  name: "Emojiness"
 #  description: "100%"  
 
-# Uncomment to use custom SVG icons.
-# Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
-# Reference the SVG icon name (without `.svg` extension) in the `icon` field.
-#- icon: "your-custom-icon-name"
-#  icon_pack: "custom"
-#  name: "Surfing"
-#  description: "90%"
+ Uncomment to use custom SVG icons.
+ Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
+ Reference the SVG icon name (without `.svg` extension) in the `icon` field.
+- icon: "your-custom-icon-name"
+  icon_pack: "custom"
+  name: "Surfing"
+  description: "90%"
 ---
