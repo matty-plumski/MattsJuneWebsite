@@ -15,11 +15,10 @@ subtitle:
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
-feature:
-- description: 90%
-  icon: r-project
-  icon_pack: fab
-  name: R
+feature: 90
+- icon: open-data
+  icon_pack: ai
+  name: Open Data
 - description: 100%
   icon: chart-line
   icon_pack: fas
