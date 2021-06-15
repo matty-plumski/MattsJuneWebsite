@@ -31,6 +31,8 @@ content:
     tag: Deep Learning
   - name: Other
     tag: Demo
+  - name: Marsden
+    tag: Funding
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
